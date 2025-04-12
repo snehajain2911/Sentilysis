@@ -1,0 +1,6 @@
+SpeechRecognition 
+nltk
+flask
+pyaudio
+openai
+openai==0.28
